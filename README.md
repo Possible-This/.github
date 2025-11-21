@@ -10,6 +10,7 @@ Our mission is to transform user-submitted narratives—from news to speculation
 
 | Repository | Role | Description |
 | :--- | :--- | :--- |
+| `possible-this/discussions` | **Forum** | Open public discussions about non-code related issues. |
 | `possible-this/documentation` | **Documentation** | Public blueprints, API specifications, and research design for the social experiment. |
 | `possible-this/frontend` | **Client Application** | Public user-facing web application and submission portal. |
 | `possible-this/engine` | **Core Backend** | Proprietary automation pipeline, Gemini API logic, classification, and persistence. |
